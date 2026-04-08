@@ -32,6 +32,21 @@ Designed an AI-powered system to reduce churn and improve retention
 
 👉 🔗 View Project: https://github.com/shuchi-minhas/ai-customer-success-roadmap
 
+
+## 🧩 Problem–Solution–Use Case Frameworks
+A structured collection of real-world problem–solution–use case scenarios focused on Customer Success, SaaS, and AI-driven operations.
+
+This project demonstrates how complex business challenges can be broken down into clear, actionable solutions using data, structured thinking, and automation concepts.
+
+Highlights:
+
+Problem framing and analytical thinking
+Practical, outcome-focused solutions
+Application of AI in Customer Success workflows
+Scalable approaches to customer experience and operations
+
+👉 🔗 https://github.com/shuchi-minhas/Problem-Solution-Use-case
+
 ---
 
 
