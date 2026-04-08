@@ -28,13 +28,70 @@ A curated cybersecurity job board built using Notion + AI + Super
 
 ---
 
-## 📊 Case Study Highlight
 
-### Enterprise Customer Growth
-- Managed $10M+ ARR portfolio  
-- Increased adoption by 40%  
-- Achieved 95–98% retention  
-- Delivered executive QBRs & success strategies  
+## 📊 Case Studies
+
+### 🔹 Enterprise Customer Retention & Growth
+
+**Context**  
+Managed a portfolio of enterprise cybersecurity customers across APAC with high-value contracts.
+
+**Challenge**  
+Low product adoption and risk of churn due to underutilisation.
+
+**Action**
+- Built structured Customer Success Plans aligned to business goals  
+- Delivered executive QBRs translating technical data into business impact  
+- Created Power BI dashboards for customer health and usage tracking  
+- Partnered with Sales for renewals and expansion  
+
+**Result**
+- 95–98% retention across enterprise accounts  
+- 40% increase in product adoption  
+- Stronger executive relationships and long-term growth  
+
+**Tools**
+Power BI · Salesforce · Gainsight  
+
+---
+
+### ⚡ SecureX Job (AI + No-code Project)
+
+**Context**  
+Built a cybersecurity job platform to simplify job discovery for professionals.
+
+**Challenge**  
+Launch quickly without coding while maintaining quality and usability.
+
+**Action**
+- Created a Notion database for job listings  
+- Used ChatGPT to generate and standardise content  
+- Published using Super.so for a clean web experience  
+
+**Result**
+- Launched in days using no-code  
+- Centralised hub for cybersecurity jobs  
+- Demonstrated AI + product thinking capability  
+
+**Tools**
+Notion · ChatGPT · Super.so  
+
+---
+
+### 🤖 AI in Customer Success (Concept)
+
+**Solution**
+- Designed AI-driven onboarding and communication workflows  
+- Built customer health scoring logic  
+- Created scalable templates for engagement  
+
+**Impact**
+- Reduced manual effort  
+- Improved consistency  
+- Enabled scalable Customer Success  
+
+**Tools**
+ChatGPT · Notion · Automation tools 
 
 ---
 
