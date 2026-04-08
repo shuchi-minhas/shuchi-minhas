@@ -30,6 +30,11 @@ A curated cybersecurity job board built using Notion + AI + Super
 👉 AI Customer Success Roadmap  
 https://github.com/shuchi-minhas/ai-customer-success-roadmap
 
+## 🔹 AI Customer Success Case Study  
+→ Designed an AI-powered system to reduce churn and improve retention  
+
+🔗 View Project: https://github.com/shuchi-minhas/ai-customer-success-roadmap
+
 ---
 
 
@@ -49,10 +54,12 @@ Low product adoption and risk of churn due to underutilisation.
 - Created Power BI dashboards for customer health and usage tracking  
 - Partnered with Sales for renewals and expansion  
 
-**Result**
-- 95–98% retention across enterprise accounts  
-- 40% increase in product adoption  
-- Stronger executive relationships and long-term growth  
+## 📊 Success Metrics
+
+- Reduce churn by 15–25%
+- Increase retention by 20%
+- Reduce manual workload by 30%
+- Improve response time by 40%
 
 **Tools**
 Power BI · Salesforce · Gainsight  
