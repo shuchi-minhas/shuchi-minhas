@@ -26,14 +26,11 @@ A curated cybersecurity job board built using Notion + AI + Super
 
 👉 https://securexjob.super.site/
 
-## 🧭 Roadmap Project
-👉 AI Customer Success Roadmap  
-https://github.com/shuchi-minhas/ai-customer-success-roadmap
 
-## 🔹 AI Customer Success Case Study  
-→ Designed an AI-powered system to reduce churn and improve retention  
+## 🧭 AI Customer Success Case Study  
+Designed an AI-powered system to reduce churn and improve retention  
 
-🔗 View Project: https://github.com/shuchi-minhas/ai-customer-success-roadmap
+👉 🔗 View Project: https://github.com/shuchi-minhas/ai-customer-success-roadmap
 
 ---
 
