@@ -111,4 +111,3 @@ Customer Success · Cybersecurity · AI Workflows · Power BI · Salesforce · G
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shuchi-minhas-173ab838/  
 - 📧 Email: shuchiminhas@gmail.com  
-- 📞 Phone: +61 469 833 130
