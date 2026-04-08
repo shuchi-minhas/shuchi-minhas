@@ -26,6 +26,10 @@ A curated cybersecurity job board built using Notion + AI + Super
 
 👉 https://securexjob.super.site/
 
+## 🧭 Roadmap Project
+👉 AI Customer Success Roadmap  
+https://github.com/shuchi-minhas/ai-customer-success-roadmap
+
 ---
 
 
